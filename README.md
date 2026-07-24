@@ -42,7 +42,7 @@ The system also includes a machine learning component for air quality analysis a
   <img src="Screenshots/methodology.png" alt="Project Methodology" width="800">
 </p>
 
-##Arduino UNO Code
+## Arduino UNO Code
 
 <p align="center">
   <img src="Screenshots/arduino uno.png" alt="Project arduino uno" width="800">
