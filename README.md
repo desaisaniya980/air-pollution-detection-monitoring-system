@@ -36,6 +36,12 @@ The system also includes a machine learning component for air quality analysis a
 
 ---
 
+## 🔄 Methodology
+
+<p align="center">
+  <img src="Screenshots/methodology.png" alt="Project Methodology" width="800">
+</p>
+
 ## 🛠️ Hardware Components
 
 - Arduino UNO
