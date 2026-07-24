@@ -66,7 +66,7 @@ The system also includes a machine learning component for air quality analysis a
 
 ## Connection_of_Hardware's
 <p align="center">
-  <img src="Screenshots/Hardwares.png" alt="Project Hardwares " width="800">
+  <img src="Screenshots/Hardware's.png" alt="Project Hardware's " width="800">
 </p>
 
 ## 🛠️ Hardware Components
