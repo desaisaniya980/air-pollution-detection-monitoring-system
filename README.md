@@ -63,6 +63,12 @@ The system also includes a machine learning component for air quality analysis a
 <p align="center">
   <img src="Screenshots/Graph_&_MLPrediction.png" alt="Project Graph_&_MLPrediction" width="800">
 </p>
+
+## Connection_of_Hardware's
+<p align="center">
+  <img src="Screenshots/Hardwares.png" alt="Project Hardwares " width="800">
+</p>
+
 ## 🛠️ Hardware Components
 
 - Arduino UNO
